@@ -3,7 +3,7 @@ Esta es la historia de Diego Torres, estudiante de ingeniería de sistemas
 Tiene 20 años y es de Colombia,
 nació el 30 de junio de 2002 en bogotá.
 
-Manolo tiene un año y nació en Mosquera.
+Manolo es una persona que contribuye a este proyecto de open source y nació en Mosquera.
 Llegó  un 5 de junio del año 2021 :).
 
 Hoy hablaremos de su historia.
