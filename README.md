@@ -8,7 +8,8 @@
 - Flujos de trabajo profesionales
 - Multiples entornos de trabajo en Git
 - Creado por Freddy Vega
-- Incluye gran variedad de temas y ejemplos.
+- Incluye gran variedad de temas y ejemplos
+- No te arrepentirás.
 
 
 **¡Y MUCHO M&Aacute;S!**
