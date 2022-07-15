@@ -7,6 +7,8 @@
 - Trabajando con repositorios remotos en GitHub
 - Flujos de trabajo profesionales
 - Multiples entornos de trabajo en Git
-- Creado por Diego 
+- Creado por Freddy Vega
+- Incluye gran variedad de temas y ejemplos.
+
 
 **¡Y MUCHO M&Aacute;S!**
